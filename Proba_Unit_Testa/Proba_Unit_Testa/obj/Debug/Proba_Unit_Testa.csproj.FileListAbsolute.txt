@@ -1,0 +1,7 @@
+G:\- dotNET\ - - GiT\Proba_Unit_Testa\Proba_Unit_Testa\bin\Debug\Proba_Unit_Testa.exe.config
+G:\- dotNET\ - - GiT\Proba_Unit_Testa\Proba_Unit_Testa\bin\Debug\Proba_Unit_Testa.exe
+G:\- dotNET\ - - GiT\Proba_Unit_Testa\Proba_Unit_Testa\bin\Debug\Proba_Unit_Testa.pdb
+G:\- dotNET\ - - GiT\Proba_Unit_Testa\Proba_Unit_Testa\obj\Debug\Proba_Unit_Testa.csprojResolveAssemblyReference.cache
+G:\- dotNET\ - - GiT\Proba_Unit_Testa\Proba_Unit_Testa\obj\Debug\Proba_Unit_Testa.csproj.CoreCompileInputs.cache
+G:\- dotNET\ - - GiT\Proba_Unit_Testa\Proba_Unit_Testa\obj\Debug\Proba_Unit_Testa.exe
+G:\- dotNET\ - - GiT\Proba_Unit_Testa\Proba_Unit_Testa\obj\Debug\Proba_Unit_Testa.pdb
